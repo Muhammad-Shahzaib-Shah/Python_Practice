@@ -1,0 +1,15 @@
+# List 
+list = [11,2,3,44,55,33,43,2,33,1]
+# print(list)
+list.append(100)
+# print(list)
+list.sort()
+# print(list)
+# list.reverse()
+print(list)
+list.insert(4,4)
+# print(list)
+list.pop(4)
+print(list)
+list.remove(2)
+print(list)
