@@ -1,0 +1,29 @@
+## Sample One-Page Text
+
+This is a simple practice article designed for learning text processing in Python. The purpose of this text is to help students understand how words appear in real paragraphs and how they can be detected, replaced, or censored using programming logic. Many beginners struggle with string handling, but with regular practice, it becomes easier.
+
+Programming is not just about writing code; it is also about reading, understanding, and modifying text. For example, chat applications, comment systems, and social media platforms often need to filter certain words to maintain a healthy environment. This filtering process usually involves checking each word against a predefined list.
+
+In this article, some words may represent negative language, ####, or inappropriate expressions. Your task as a programmer is not to judge the content but to apply logic correctly. You might convert the text to lowercase, split it into words, and then compare each word with a list of restricted terms.
+
+Python provides powerful tools such as loops, conditionals, lists, and string methods that make this task straightforward. Once you master these basics, you can move on to more advanced techniques like regular expressions and natural language processing.
+
+Consistent practice will improve your confidence. Do not be afraid of making mistakes; every error is a step toward learning. Keep experimenting, keep coding, and keep improving your skills every day.
+
+---
+
+## Word List (For Filtering / Censoring Practice)
+
+```
+###
+####
+######
+#####
+####
+####
+####
+#####
+########
+#####
+```
+###  ###  ###  bAd
