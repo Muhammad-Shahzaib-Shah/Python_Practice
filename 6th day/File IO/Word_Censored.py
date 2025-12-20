@@ -9,6 +9,6 @@ def cens(string):
                 
         with open(string , "w") as f:
             f.write(content)
-cens("Word_Censored.txt")
+cens("py.docx")
 print("Word Censored")
                 
